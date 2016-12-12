@@ -1,0 +1,23 @@
+{
+  "name": "graphql-validator-test",
+  "version": "0.0.1",
+  "description": "A test repo for debugging issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glendaviesnz/graphql-validator-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glendaviesnz/graphql-validator-test/issues"
+  },
+  "homepage": "https://github.com/glendaviesnz/graphql-validator-test#readme",
+  "dependencies": {
+    "@creditkarma/graphql-loader": "^0.2.0",
+    "@creditkarma/graphql-validator": "^0.1.6"
+  }
+}
