@@ -18,6 +18,7 @@
   "homepage": "https://github.com/glendaviesnz/graphql-validator-test#readme",
   "dependencies": {
     "@creditkarma/graphql-loader": "^0.2.0",
-    "@creditkarma/graphql-validator": "^0.1.6"
+    "@creditkarma/graphql-validator": "^0.2.0",
+    "graphql": "^0.8.2"
   }
 }

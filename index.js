@@ -3,6 +3,6 @@ const validator = require('@creditkarma/graphql-validator')
 
 loadSchema.loadSchema('./test/schema/*.graphql', (err, schema) => {
   validator.validateQueryFiles('./test/queries/*.graphql', schema, (err, results) => {
-    console.log(results)
+    console.log('result', results);
   })
 })

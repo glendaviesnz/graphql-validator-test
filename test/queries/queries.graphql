@@ -3,7 +3,7 @@ query Posts {
         id,
         title,
         author {
-            firstName,
+            firstNameX,
             lastName
          }
     }

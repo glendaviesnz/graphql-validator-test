@@ -1,6 +1,6 @@
 type Author {
     id: Int!
-    XfirstName: String
+    firstName: String
     lastName: String
     posts: [Post]
 }
